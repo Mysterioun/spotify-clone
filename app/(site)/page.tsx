@@ -35,7 +35,7 @@ export default function Home() {
             <ListItem 
               image="/images/liked.png"
               name="Musicas Curtidas"
-              href="liked"
+              href="curtidas"
               />
         </div>
       </div>
