@@ -43,7 +43,7 @@ export default async function Home() {
             <ListItem 
               image="/images/liked.png"
               name="Musicas Curtidas"
-              href="curtidas"
+              href="liked"
               />
         </div>
       </div>
